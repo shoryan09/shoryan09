@@ -29,14 +29,7 @@ High agency. Extreme ownership. Ship fast, fix properly.
 
 ---
 
-## 📚 Learning
-
-- AI agents, memory systems, and LLM integrations
-- TypeScript at scale
-
----
-
-## 🤝 Let's Connect
+## 🤝 find me
 
 - **Email:** royshoryan01209@gmail.com
 - **X**: https://x.com/shoryanroy 
