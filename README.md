@@ -39,7 +39,7 @@ High agency. Extreme ownership. Ship fast, fix properly.
 ## 🤝 Let's Connect
 
 - **Email:** royshoryan01209@gmail.com
-- **X: https://x.com/shoryanroy 
+- **X**: https://x.com/shoryanroy 
 - **LinkedIn:** [linkedin.com/in/shoryan-roy](https://linkedin.com/in/shoryan-roy)
 - **Portfolio:** [shoryanroy.vercel.app](https://shoryanroy.vercel.app)
 
