@@ -9,9 +9,9 @@ Building real-time systems, secure architectures, and end-to-end products from s
 
 ## 🚀 About Me
 
-I'm a full-stack engineer who builds and ships real-world systems independently — from schema design to deployed product.
+I'm a full-stack engineer who builds and ships real-world systems independently, from schema design to deployed product.
 
-My work is rooted in understanding *why* things break, not just making them work. I've rebuilt a real-time messaging system after diagnosing why it failed at 500 concurrent users. I've designed encryption architectures where correctness isn't optional. I treat every project like it's going to production — because it is.
+My work is rooted in understanding *why* things break, not just making them work. I've rebuilt a real-time messaging system after diagnosing why it failed at 500 concurrent users. I've designed encryption architectures where correctness isn't optional. I treat every project like it's going to production, because it is.
 
 High agency. Extreme ownership. Ship fast, fix properly.
 
