@@ -11,11 +11,12 @@ Building real-time systems, secure architectures, and end-to-end products from s
 
 | Category | Technologies |
 |----------|-------------|
-| Languages | JavaScript, Python, C/C++, HTML/CSS |
+| Languages | JavaScript, TypeScript, Python, C/C++, HTML/CSS |
 | Frontend | React, Tailwind CSS |
 | Backend | Node.js, Express, Socket.IO, Flask |
 | Databases | MongoDB, PostgreSQL |
-| Tools / Infra | Docker, Git, Firebase, Postman, Vercel, Render |
+| AI/LLM | Gemini, Pinecone, RAG |
+| Tools / Infra | Docker, Git, Firebase, Postman, Vercel, Render, Railway |
 
 ---
 
