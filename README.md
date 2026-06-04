@@ -1,5 +1,5 @@
 # Shoryan Roy
-Full-Stack Engineer • Final Year @ BPIT Delhi
+Full-Stack Engineer
 
 Building real-time systems, secure architectures, and end-to-end products from scratch.
 
