@@ -12,7 +12,7 @@ Building real-time systems, secure architectures, and end-to-end products from s
 | Category | Technologies |
 |----------|-------------|
 | Languages | JavaScript, TypeScript, Python, C/C++, HTML/CSS |
-| Frontend | React, Tailwind CSS |
+| Frontend | React, Next.js, Tailwind CSS |
 | Backend | Node.js, Express, Socket.IO, Flask |
 | Databases | MongoDB, PostgreSQL |
 | AI/LLM | Gemini, Pinecone, RAG |
