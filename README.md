@@ -24,7 +24,7 @@ Building real-time systems, secure architectures, and end-to-end products from s
 
 - **Email:** royshoryan01209@gmail.com
 - **X**: https://x.com/shoryanroy 
-- **LinkedIn:** [linkedin.com/in/shoryan-roy](https://linkedin.com/in/shoryan-roy)
+- **LinkedIn:** [linkedin.com/in/shoryanroy](https://www.linkedin.com/in/shoryanroy/)
 - **Portfolio:** [shoryanroy.vercel.app](https://shoryanroy.vercel.app)
 
 Always open to interesting engineering problems, collaborations, and opportunities.
