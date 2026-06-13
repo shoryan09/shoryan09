@@ -1,7 +1,7 @@
 # Shoryan Roy
 Full-Stack Engineer
 
-Building real-time systems, secure architectures, and end-to-end products from scratch.
+Building real-time systems, secure architectures, and end-to-end products from scratch. Always open to interesting engineering problems, collaborations, and opportunities.
 
 **[Email](mailto:royshoryan01209@gmail.com)**
 
@@ -17,5 +17,3 @@ Building real-time systems, secure architectures, and end-to-end products from s
 | Databases | MongoDB, PostgreSQL |
 | AI/LLM | Gemini, Pinecone, RAG |
 | Tools / Infra | Docker, Git, Firebase, Postman, Vercel, Render, Railway |
-
-Always open to interesting engineering problems, collaborations, and opportunities.
