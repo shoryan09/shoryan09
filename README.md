@@ -1,7 +1,7 @@
 # Shoryan Roy
 Full-Stack Engineer
 
-Building real-time systems, secure architectures, and end-to-end products from scratch. Currently working on [Contextis](https://github.com/shoryan09/contextis).
+Building real-time systems, secure architectures, and end-to-end products from scratch.
 
 **[Email](mailto:royshoryan01209@gmail.com)**
 
