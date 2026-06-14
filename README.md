@@ -7,7 +7,7 @@ Building real-time systems, secure architectures, and end-to-end products from s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
