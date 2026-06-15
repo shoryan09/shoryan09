@@ -1,7 +1,7 @@
 # Shoryan Roy
 Full-Stack Engineer
 
-Building real-time systems, secure architectures, and end-to-end products from scratch. Always open to interesting engineering problems, collaborations, and opportunities.
+Building real-time systems, secure architectures, and end-to-end products from scratch. Always open to interesting engineering problems, collaborations, and opportunities
 
 **[Email](mailto:royshoryan01209@gmail.com)**
 
